@@ -505,13 +505,16 @@ html {
   margin: 0px 0px 4% 0px;
 }
 
-.no-webp .user__item{
-  background: #fff url("../img/icons/Icon_comma.png") 36px 35px/47px auto no-repeat; }
-
 .user__item {
+  background: #fff;
   border-radius: 25px 0;
-  padding: 105px 40px 30px 40px;
+  padding: 45px 40px 30px 40px;
   max-width: 370px;
+}
+
+.user__coma-img {
+  max-width: 47px;
+  margin: 0 0 20px 0;
 }
 
 .user__text {
@@ -1483,8 +1486,6 @@ html {
 .webp .about{ background: url(../img/about_bg.webp) 90% 20%/50% auto no-repeat, url(../img/decor/work_decor_cirkle.svg) 2% 20%/8% auto no-repeat; }
 
 .webp .user{ background: url(../img/decor/decor_snake.webp) 91% 16%/4% auto no-repeat, url(../img/decor/decor_1.webp) 100% 77%/4% auto no-repeat, url(../img/decor/decor_3.webp) -1.5% 53%/3% auto no-repeat, url(../img/decor/decor_triengle.webp) 12% 80%/2% auto no-repeat, url(../img/decor/decor_4.webp) 7% 4%/6% auto no-repeat, url(../img/happy-users_bg.svg) center/cover no-repeat; }
-
-.webp .user__item{ background: #fff url(../img/icons/Icon_comma.webp) 36px 35px/47px auto no-repeat; }
 
 .webp .choose{ background: url(../img/decor/work_decor_pent.webp) 8% 71%/5% auto no-repeat, url(../img/decor/work_decor_cirkle.svg) 95% 60%/7% auto no-repeat, url(../img/decor/decor_4.webp) 80% 20%/9% auto no-repeat; }
 
