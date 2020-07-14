@@ -258,7 +258,7 @@ html {
   border-radius: 24px;
   border: 3px solid #ffffff;
   min-width: 200px;
-  padding: 10px 35px 5px 35px;
+  padding: 10px 35px;
   -webkit-transition: .3s;
   -o-transition: .3s;
   transition: .3s;
@@ -338,7 +338,7 @@ html {
 }
 
 .work__img {
-  padding: 0px 0px 90% 0px;
+  max-width: 100%;
 }
 
 .work__body {
