@@ -1,1 +1,1 @@
-https://mrgo336.github.io/avaira/
+https://EgorNikolaiev.github.io/avaira/
